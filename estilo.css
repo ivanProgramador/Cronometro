@@ -1,0 +1,42 @@
+*{
+	
+	font-family: 'digital';
+
+
+}
+
+@font-face{
+
+	src: url('digital-7.ttf');
+	font-family: 'digital';
+	font-weight: normal;
+}
+
+.tela{
+
+	border: 1px solid black;
+	background:#15a063;
+
+	width: 910px;
+	margin: 0 auto;
+
+	text-align: center;
+    	
+}
+
+h1{
+	font-size: 60pt;
+}
+
+button{
+	width: 300px;
+	display: inline;
+	border: 2px solid black;
+	font-weight: bolder;
+	padding: 5px;
+}
+
+hr{
+	height: 10px;
+	background-color: black;
+}
